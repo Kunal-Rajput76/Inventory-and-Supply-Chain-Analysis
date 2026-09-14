@@ -289,7 +289,7 @@ Use the **Region** and **Category** slicers to interact with the dashboard and a
 
 ## 📸 Dashboard Preview
 
-![Inventory And Supply Chain Analysis Dashboard](Screenshots/dashboard-preview.png)
+![Inventory And Supply Chain Analysis Dashboard](dashboardphoto.png)
 
 ## 📄 Project Deliverables
 
